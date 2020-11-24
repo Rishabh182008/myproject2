@@ -1,0 +1,49 @@
+h1{
+color:blue
+}
+h1{
+border:solid
+}
+.header {
+    background-color: orangered;
+    display: flex;
+    justify-content: space-evenly;
+}
+.grid {
+    background-color: green;
+    display: flex;
+    justify-content: space-evenly;
+}
+.item {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-evenly;
+}
+.footer {
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;  
+}
+.box {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+.ori {
+    background-color: lightgreen;
+    display: flex;
+    justify-content: space-evenly;
+}
+.gami {
+    background-color: lightblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+p,h2{
+    text-align: center;
+}
+
+
+
+
+
